@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://www.apollorion.com/github_banner.png" alt="Personal Website" />
+    <img src="https://apollorion.com/logosmall.png" alt="Personal Website" />
 </p>
 
 <p align="center">
