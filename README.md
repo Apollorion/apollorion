@@ -1,6 +1,4 @@
-<p align="center">
-    <img src="https://apollorion.com/logos/new-large-white-transparent.png" alt="Personal Website" />
-</p>
+![Personal Website](https://raw.githubusercontent.com/Apollorion/apollorion.com/main/logos/new-large-white-transparent.png#gh-dark-mode-only)![Personal Website](https://raw.githubusercontent.com/Apollorion/apollorion.com/main/logos/new-large-black-transparent.png#gh-light-mode-only)
 
 <p align="center">
     <b>Hello, I'm Joey 👋</b>
