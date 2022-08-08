@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://apollorion.com/logosmall.png" alt="Personal Website" />
+    <img src="https://apollorion.com/logos/new-large-white-transparent.png" alt="Personal Website" />
 </p>
 
 <p align="center">
