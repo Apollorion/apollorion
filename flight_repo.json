@@ -1,0 +1,16 @@
+{
+  "version": "1",
+  "standard": {
+    "https://google.com" : ["google", "goog"],
+    "https://facebook.com/" : ["fb"]
+  },
+  "logical": {
+    "example-aws": {
+      "override": "https://console.aws.amazon.com/console/home",
+      "logic": "https://console.aws.amazon.com/console/home?region=$1"
+    },
+    "example-gh": {
+      "logic": "https://github.com/$1/$2"
+    }
+  }
+}
