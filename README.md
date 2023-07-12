@@ -6,26 +6,26 @@
 <p align="center">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=apollorion&show_icons=true&theme=dracula"
+        srcset="https://github-readme-stats-jet-ten.vercel.app/api?username=apollorion&show_icons=true&theme=dracula"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=apollorion&show_icons=true"
+        srcset="https://github-readme-stats-jet-ten.vercel.app/api?username=apollorion&show_icons=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api?username=apollorion&show_icons=true" />
+      <img src="https://github-readme-stats-jet-ten.vercel.app/api?username=apollorion&show_icons=true" />
     </picture>
     <br/>
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=apollorion&theme=dracula"
+        srcset="https://github-readme-stats-jet-ten.vercel.app/api/top-langs/?username=apollorion&theme=dracula"
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=apollorion"
+        srcset="https://github-readme-stats-jet-ten.vercel.app/api/top-langs/?username=apollorion"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apollorion" />
+      <img src="https://github-readme-stats-jet-ten.vercel.app/api/top-langs/?username=apollorion" />
     </picture>
     <br/><br/>
     <a href="https://www.instagram.com/sirjosephaaronstout/">
