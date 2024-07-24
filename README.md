@@ -3,43 +3,29 @@
 <p align="center">
     <b>Hello, I'm Joey 👋</b>
 </p>
-<p align="center">
-    <picture>
-      <source
-        srcset="https://github-readme-stats-jet-ten.vercel.app/api?username=apollorion&show_icons=true&theme=dracula"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats-jet-ten.vercel.app/api?username=apollorion&show_icons=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-stats-jet-ten.vercel.app/api?username=apollorion&show_icons=true" />
-    </picture>
-    <br/>
-    <picture>
-      <source
-        srcset="https://github-readme-stats-jet-ten.vercel.app/api/top-langs/?username=apollorion&theme=dracula"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats-jet-ten.vercel.app/api/top-langs/?username=apollorion"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-stats-jet-ten.vercel.app/api/top-langs/?username=apollorion" />
-    </picture>
-    <br/><br/>
-    <a href="https://www.instagram.com/sirjosephaaronstout/">
-        <img src="https://instagram.com/favicon.ico" width=16px height=16px />
-    </a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/apollorion">
-        <img src="https://www.linkedin.com/favicon.ico" width=16px height=16px />
-    </a>
-    &nbsp;
-    <a href="https://twitter.com/apollorion">
-        <img src="https://twitter.com/favicon.ico" width=16px height=16px />
-    </a>
-</p>
+
+```hcl
+resource "github_introduction" "joey" {
+    name      = "Joey Stout"
+    interests = ["kubernetes", "opentofu", "nodejs", "python", "gitops"]
+    resume    = "https://apollorion.com/joeysResume.pdf"
+
+    maintainer_of = [
+        "https://manifests.io/",
+        "https://fly.apollorion.com/",
+        "https://github.com/Apollorion/easy-k8s-secrets",
+        "https://opentofu-best-practices.com/"
+    ]
+
+    contact = {
+        email     = "joey@apollorion.com"
+        linkedin  = "https://www.linkedin.com/in/apollorion"
+        instagram = "https://www.instagram.com/sirjosephaaronstout/"
+        twitter   = "https://twitter.com/apollorion"
+    }
+}
+```
+
 <p align="center">
     <a href="https://www.buymeacoffee.com/apollorion"><sub><sub>Buy Me A Coffee</sub></sub></a> <sub><sub>|</sub></sub> <a href="https://apollorion.com/joeysResume.pdf"><sub><sub>Resume</sub></sub></a>
 </p>
