@@ -13,8 +13,7 @@ resource "github_introduction" "joey" {
     maintainer_of = [
         "https://manifests.io/",
         "https://fly.apollorion.com/",
-        "https://github.com/Apollorion/easy-k8s-secrets",
-        "https://opentofu-best-practices.com/"
+        "https://github.com/Apollorion/easy-k8s-secrets"
     ]
 
     contact = {
