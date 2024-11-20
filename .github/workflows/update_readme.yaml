@@ -1,0 +1,40 @@
+name: Deploy README
+
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+  # Run it at least once a day to pull in latest bluesky posts
+  schedule:
+    - cron: "0 0 * * *"
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "readme"
+  cancel-in-progress: false
+
+jobs:
+  # Build job
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Update Readme
+        env:
+          MAX_POSTS: 5
+        run: ./.github/workflows/update_readme.sh
+      - name: Push to main
+        run: |
+          git config --global user.email "
+          git config --global user.name "GitHub Actions"
+          git add README.md
+          git commit -m "Update README.md"
+          git push origin main
