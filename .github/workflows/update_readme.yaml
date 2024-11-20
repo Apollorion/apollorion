@@ -31,9 +31,4 @@ jobs:
         env:
           MAX_POSTS: 5
         run: ./.github/workflows/update_readme.sh
-      - name: Push to main
-        run: |
-          git config --global user.name "GitHub Actions"
-          git add README.md
-          git commit -m "Update README.md"
-          git push origin main
+      - uses: stefanzweifel/git-auto-commit-action@v5
