@@ -13,7 +13,7 @@ EOF
 
 gen_blusky_posts(){
 
-  echo "## Latest BlueSky Posts" >> README.md
+  echo "### Latest BlueSky Posts" >> README.md
 
   # Query bluesky for posts
   export MAX_POSTS=5

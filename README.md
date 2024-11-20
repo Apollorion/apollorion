@@ -41,7 +41,7 @@ resource "github_introduction" "joey" {
 }
 ```
 
-## Latest BlueSky Posts
+### Latest BlueSky Posts
 2024-11-20: [Is it a sin to link to X on here? Oh well, real cool Spacelift thing: x.com/k8sfm/status...](https://bsky.app/profile/apollorion.com/post/3lbfuxetscc2h)  
 2024-11-20: [I made my second post too, just in case.](https://bsky.app/profile/apollorion.com/post/3lbfp3dftsk27)  
 2024-11-20: [Mic check hello hello is this thing on? This is my first post here <3](https://bsky.app/profile/apollorion.com/post/3lbfnzsdybs2n)  
