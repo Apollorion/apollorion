@@ -23,13 +23,23 @@ gen_blusky_posts(){
 
   # Parse the posts
   for i in $(seq 0 $((length - 1))); do
-      text=$(echo "$posts" | jq -r ".feed[$i].post.record.text")
+      text=$(echo "$posts" | jq -r ".feed[$i].post.record.text" | tr '\n' ' ')
       uri=$(echo "$posts" | jq -r ".feed[$i].post.uri" | awk -F'/' '{print $NF}')
 
       date=$(echo "$posts" | jq -r ".feed[$i].post.record.createdAt")
       date=${date%%T*}
 
-      echo "$date: [$text](https://bsky.app/profile/apollorion.com/post/$uri)  " >> README.md
+      handle=$(echo "$posts" | jq -r ".feed[$i].post.author.handle")
+
+      if [ -z "$text" ]; then
+        continue
+      fi
+
+      if [ "$handle" != "apollorion.com" ]; then
+        text="Repost(@$handle): $text"
+      fi
+
+      echo "$date: [$text](https://bsky.app/profile/$handle/post/$uri)  " >> README.md
   done
 
   echo "" >> README.md

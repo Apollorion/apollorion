@@ -42,9 +42,11 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
-2024-11-20: [Is it a sin to link to X on here? Oh well, real cool Spacelift thing: x.com/k8sfm/status...](https://bsky.app/profile/apollorion.com/post/3lbfuxetscc2h)  
-2024-11-20: [I made my second post too, just in case.](https://bsky.app/profile/apollorion.com/post/3lbfp3dftsk27)  
-2024-11-20: [Mic check hello hello is this thing on? This is my first post here <3](https://bsky.app/profile/apollorion.com/post/3lbfnzsdybs2n)  
+2024-11-19: [Repost(@chas.bsky.social): I think they should nominate Dr Pepper for Surgeon General. It’s time. He’s earned it. ](https://bsky.app/profile/chas.bsky.social/post/3lbd2jv3s5k2v)  
+2024-11-20: [Repost(@astronomers.bsky.social): Orion and Sirius ](https://bsky.app/profile/astronomers.bsky.social/post/3lbecstncyk2b)  
+2024-11-20: [I was in the KubeCon spotlight video VMBlog put out representing Spacelift! www.youtube.com/watch?v=6ZoQ... ](https://bsky.app/profile/apollorion.com/post/3lbg4qnij7k26)  
+2024-11-20: [Is it a sin to link to X on here? Oh well, real cool Spacelift thing: x.com/k8sfm/status... ](https://bsky.app/profile/apollorion.com/post/3lbfuxetscc2h)  
+2024-11-20: [I made my second post too, just in case. ](https://bsky.app/profile/apollorion.com/post/3lbfp3dftsk27)  
 
 
 <p align="center">
