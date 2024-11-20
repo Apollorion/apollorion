@@ -12,6 +12,9 @@ EOF
 }
 
 gen_blusky_posts(){
+
+  echo "## Latest BlueSky Posts" >> README.md
+
   # Query bluesky for posts
   export MAX_POSTS=5
   posts=$(curl -sS -H "Accept: application/json" "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=apollorion.com&limit=$MAX_POSTS")
