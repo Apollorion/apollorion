@@ -42,11 +42,11 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
+2024-11-21: [This whole platform is really cool, but how does @bsky.app make money? I dont see ads, they dont sell data (apparently).. I dont see how a company can financially support a platform that is apparently now larger than threads. The infrastructure costs alone have to be pretty high. ](https://bsky.app/profile/apollorion.com/post/3lbghxbopbs2a)  
+2024-11-19: [Repost(@zachsilberberg.bsky.social): HERETIC ENDING EXPLAINED: it means the movie is over and you can leave the theater :) ](https://bsky.app/profile/zachsilberberg.bsky.social/post/3lbcyzhewwc2e)  
+2024-11-20: [Repost(@mariopro.bsky.social):  ](https://bsky.app/profile/mariopro.bsky.social/post/3lbf63bbefs2m)  
+2024-11-20: [Repost(@haqmaljan.bsky.social): nights like this ✨ ](https://bsky.app/profile/haqmaljan.bsky.social/post/3lbeyewuvek2t)  
 2024-11-21: [There are no early afternoon CBJ games this season and that makes me real sad. Those are my favorite games because Im a child and my bedtime is early. ](https://bsky.app/profile/apollorion.com/post/3lbgdyk76us2j)  
-2024-11-21: [I wrote an integration for bluesky and whenever I post here, it will trigger a github action that will update my website apollorion.com and my github profile github.com/apollorion with my last 5 posts ](https://bsky.app/profile/apollorion.com/post/3lbgbuxsykk2j)  
-2024-11-19: [Repost(@chas.bsky.social): I think they should nominate Dr Pepper for Surgeon General. It’s time. He’s earned it. ](https://bsky.app/profile/chas.bsky.social/post/3lbd2jv3s5k2v)  
-2024-11-20: [Repost(@astronomers.bsky.social): Orion and Sirius ](https://bsky.app/profile/astronomers.bsky.social/post/3lbecstncyk2b)  
-2024-11-20: [I was in the KubeCon spotlight video VMBlog put out representing Spacelift! www.youtube.com/watch?v=6ZoQ... ](https://bsky.app/profile/apollorion.com/post/3lbg4qnij7k26)  
 
 
 <p align="center">
