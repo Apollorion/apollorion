@@ -42,7 +42,7 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
-2024-11-21: [I wrote an integration that should trigger some workflows in GitHub actions whenever I post here. Just testing if it works. ](https://bsky.app/profile/apollorion.com/post/3lbg7erjexc2j)  
+2024-11-21: [I wrote an integration for bluesky that will trigger github actions whenever I post. Just testing that. ](https://bsky.app/profile/apollorion.com/post/3lbga4d7xus2j)  
 2024-11-19: [Repost(@chas.bsky.social): I think they should nominate Dr Pepper for Surgeon General. It’s time. He’s earned it. ](https://bsky.app/profile/chas.bsky.social/post/3lbd2jv3s5k2v)  
 2024-11-20: [Repost(@astronomers.bsky.social): Orion and Sirius ](https://bsky.app/profile/astronomers.bsky.social/post/3lbecstncyk2b)  
 2024-11-20: [I was in the KubeCon spotlight video VMBlog put out representing Spacelift! www.youtube.com/watch?v=6ZoQ... ](https://bsky.app/profile/apollorion.com/post/3lbg4qnij7k26)  
