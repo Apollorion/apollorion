@@ -42,11 +42,11 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
+2024-11-21: [ourparks.org ](https://bsky.app/profile/apollorion.com/post/3lbgiulbtuk2a)  
+2024-11-21: [Repost(@turbojerry.bsky.social): physically threatening my neighbor if he doesn’t give me all the figgy pudding in his home ](https://bsky.app/profile/turbojerry.bsky.social/post/3lbgeqnkttc2y)  
+2024-11-21: [Yeah, Im def happy for that. But its not the same. 😢 ](https://bsky.app/profile/apollorion.com/post/3lbgihcfrnk2a)  
 2024-11-21: [This whole platform is really cool, but how does @bsky.app make money? I dont see ads, they dont sell data (apparently).. I dont see how a company can financially support a platform that is apparently now larger than threads. The infrastructure costs alone have to be pretty high. ](https://bsky.app/profile/apollorion.com/post/3lbghxbopbs2a)  
 2024-11-19: [Repost(@zachsilberberg.bsky.social): HERETIC ENDING EXPLAINED: it means the movie is over and you can leave the theater :) ](https://bsky.app/profile/zachsilberberg.bsky.social/post/3lbcyzhewwc2e)  
-2024-11-20: [Repost(@mariopro.bsky.social):  ](https://bsky.app/profile/mariopro.bsky.social/post/3lbf63bbefs2m)  
-2024-11-20: [Repost(@haqmaljan.bsky.social): nights like this ✨ ](https://bsky.app/profile/haqmaljan.bsky.social/post/3lbeyewuvek2t)  
-2024-11-21: [There are no early afternoon CBJ games this season and that makes me real sad. Those are my favorite games because Im a child and my bedtime is early. ](https://bsky.app/profile/apollorion.com/post/3lbgdyk76us2j)  
 
 
 <p align="center">
