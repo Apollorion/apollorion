@@ -42,11 +42,11 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
+2024-11-22: [I dont blame you ](https://bsky.app/profile/apollorion.com/post/3lbis5g3oh22n)  
 2024-11-21: [Repost(@brianhedger.bsky.social): #CBJ ](https://bsky.app/profile/brianhedger.bsky.social/post/3lbhzmuxsvc2l)  
 2024-11-21: [Repost(@lockit.bsky.social):  ](https://bsky.app/profile/lockit.bsky.social/post/3lbhr26xbe22t)  
 2024-11-21: [Repost(@jonathanslater.bsky.social): Well, I’ll never be asked to sing Christmas songs at the psych ward again  Apparently, “do you hear what I hear”,  was the wrong choice? ](https://bsky.app/profile/jonathanslater.bsky.social/post/3lbhmielxnk2s)  
 2024-11-21: [I didnt even realize you got a penalty for this. What happens? ](https://bsky.app/profile/apollorion.com/post/3lbhy5cjubs26)  
-2024-11-21: [Repost(@altnps.bsky.social): To the leaders of the Department of Government Efficiency (DOGE): As stewards of our nation’s parks, we stand firmly against any attempt to undermine the mission of the National Park Service. (1/7) ](https://bsky.app/profile/altnps.bsky.social/post/3lbhngsbzbc2j)  
 
 
 <p align="center">
