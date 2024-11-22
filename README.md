@@ -42,11 +42,11 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
-2024-11-21: [My favorite time of the year has finally arrived in central Ohio. Its snowing!!! ❄️☃️🏂⛷️🏒🥅⛸️ ](https://bsky.app/profile/apollorion.com/post/3lbhj6cussc2t)  
-2024-11-21: [ourparks.org ](https://bsky.app/profile/apollorion.com/post/3lbgiulbtuk2a)  
-2024-11-21: [Repost(@turbojerry.bsky.social): physically threatening my neighbor if he doesn’t give me all the figgy pudding in his home ](https://bsky.app/profile/turbojerry.bsky.social/post/3lbgeqnkttc2y)  
-2024-11-21: [Yeah, Im def happy for that. But its not the same. 😢 ](https://bsky.app/profile/apollorion.com/post/3lbgihcfrnk2a)  
-2024-11-21: [This whole platform is really cool, but how does @bsky.app make money? I dont see ads, they dont sell data (apparently).. I dont see how a company can financially support a platform that is apparently now larger than threads. The infrastructure costs alone have to be pretty high. ](https://bsky.app/profile/apollorion.com/post/3lbghxbopbs2a)  
+2024-11-21: [Repost(@brianhedger.bsky.social): #CBJ ](https://bsky.app/profile/brianhedger.bsky.social/post/3lbhzmuxsvc2l)  
+2024-11-21: [Repost(@lockit.bsky.social):  ](https://bsky.app/profile/lockit.bsky.social/post/3lbhr26xbe22t)  
+2024-11-21: [Repost(@jonathanslater.bsky.social): Well, I’ll never be asked to sing Christmas songs at the psych ward again  Apparently, “do you hear what I hear”,  was the wrong choice? ](https://bsky.app/profile/jonathanslater.bsky.social/post/3lbhmielxnk2s)  
+2024-11-21: [I didnt even realize you got a penalty for this. What happens? ](https://bsky.app/profile/apollorion.com/post/3lbhy5cjubs26)  
+2024-11-21: [Repost(@altnps.bsky.social): To the leaders of the Department of Government Efficiency (DOGE): As stewards of our nation’s parks, we stand firmly against any attempt to undermine the mission of the National Park Service. (1/7) ](https://bsky.app/profile/altnps.bsky.social/post/3lbhngsbzbc2j)  
 
 
 <p align="center">
