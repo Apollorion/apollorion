@@ -42,11 +42,11 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
+2024-11-22: [Yes, but at the same time if I have something in my teeth PLEASE dont let me walk around blabbing my blabber like that. ](https://bsky.app/profile/apollorion.com/post/3lbk52faaf22i)  
 2024-11-22: [I dont blame you ](https://bsky.app/profile/apollorion.com/post/3lbis5g3oh22n)  
 2024-11-21: [Repost(@brianhedger.bsky.social): #CBJ ](https://bsky.app/profile/brianhedger.bsky.social/post/3lbhzmuxsvc2l)  
 2024-11-21: [Repost(@lockit.bsky.social):  ](https://bsky.app/profile/lockit.bsky.social/post/3lbhr26xbe22t)  
 2024-11-21: [Repost(@jonathanslater.bsky.social): Well, I’ll never be asked to sing Christmas songs at the psych ward again  Apparently, “do you hear what I hear”,  was the wrong choice? ](https://bsky.app/profile/jonathanslater.bsky.social/post/3lbhmielxnk2s)  
-2024-11-21: [I didnt even realize you got a penalty for this. What happens? ](https://bsky.app/profile/apollorion.com/post/3lbhy5cjubs26)  
 
 
 <p align="center">
