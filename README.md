@@ -42,11 +42,11 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
+2024-11-26: [Sounds about right. Thanks reddit. ](https://bsky.app/profile/apollorion.com/post/3lbswefhjw225)  
 2024-11-24: [I built a cli game to dive more into go this weekend. Basically, you search for my "house" to find keys that will find my kids 😂. Give it a try: github.com/Apollorion/a... ](https://bsky.app/profile/apollorion.com/post/3lbo6zdwwgc25)  
 2024-11-23: [I cant play video games because I get motion sick really fast. But I do love video games, so instead I will spend hours writing code to make my own games that I wont play. ](https://bsky.app/profile/apollorion.com/post/3lbmh2wcczc2v)  
 2024-11-22: [Yes, but at the same time if I have something in my teeth PLEASE dont let me walk around blabbing my blabber like that. ](https://bsky.app/profile/apollorion.com/post/3lbk52faaf22i)  
 2024-11-22: [I dont blame you ](https://bsky.app/profile/apollorion.com/post/3lbis5g3oh22n)  
-2024-11-21: [Repost(@brianhedger.bsky.social): #CBJ ](https://bsky.app/profile/brianhedger.bsky.social/post/3lbhzmuxsvc2l)  
 
 
 <p align="center">
