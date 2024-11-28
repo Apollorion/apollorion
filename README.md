@@ -42,11 +42,11 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
+2024-11-28: [another amazing thanksgiving in the books #full ](https://bsky.app/profile/apollorion.com/post/3lbzzl4ftdk2j)  
 2024-11-28: [My oldest is 8 today, man time flies... ](https://bsky.app/profile/apollorion.com/post/3lbzeadnii226)  
 2024-11-27: [Repost(@altnps.bsky.social): It’s a question we ask all the time. ](https://bsky.app/profile/altnps.bsky.social/post/3lbvmkn6bxc24)  
 2024-11-26: [landed in Denver with 2 hours of sleep. Don't feel like doing anything but sleeping today. ](https://bsky.app/profile/apollorion.com/post/3lbuw5zexns26)  
 2024-11-26: [Sounds about right. Thanks reddit. ](https://bsky.app/profile/apollorion.com/post/3lbswefhjw225)  
-2024-11-24: [I built a cli game to dive more into go this weekend. Basically, you search for my "house" to find keys that will find my kids 😂. Give it a try: github.com/Apollorion/a... ](https://bsky.app/profile/apollorion.com/post/3lbo6zdwwgc25)  
 
 
 <p align="center">
