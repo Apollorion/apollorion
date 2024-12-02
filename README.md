@@ -42,11 +42,11 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
+2024-12-02: [Googan Squad doesn't respect sms opt out and its incredibly annoying. Anything I can do to get the texts to stop? ](https://bsky.app/profile/apollorion.com/post/3lcddhziftc2o)  
 2024-11-28: [Repost(@america-4-all.bsky.social):  ](https://bsky.app/profile/america-4-all.bsky.social/post/3lbzhbawhg222)  
 2024-11-29: [Any good fishing spots near Centennial Colorado? ](https://bsky.app/profile/apollorion.com/post/3lc3ro4rd322v)  
 2024-11-28: [another amazing thanksgiving in the books #full ](https://bsky.app/profile/apollorion.com/post/3lbzzl4ftdk2j)  
 2024-11-28: [My oldest is 8 today, man time flies... ](https://bsky.app/profile/apollorion.com/post/3lbzeadnii226)  
-2024-11-27: [Repost(@altnps.bsky.social): It’s a question we ask all the time. ](https://bsky.app/profile/altnps.bsky.social/post/3lbvmkn6bxc24)  
 
 
 <p align="center">
