@@ -42,11 +42,11 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
+2024-12-03: [If I was an HVAC tech, I would prefer the no heat calls over the no AC calls. ](https://bsky.app/profile/apollorion.com/post/3lcgcarqwn22b)  
 2024-12-03: [Trump is going to estrange Canada at this point and hes not even president yet. ](https://bsky.app/profile/apollorion.com/post/3lcfuhmk2cs2b)  
 2024-12-02: [Repost(@hankgreen.bsky.social): httpspspspspspsp:// ](https://bsky.app/profile/hankgreen.bsky.social/post/3lce6zpibo22p)  
 2024-12-02: [Googan Squad doesn't respect sms opt out and its incredibly annoying. Anything I can do to get the texts to stop? ](https://bsky.app/profile/apollorion.com/post/3lcddhziftc2o)  
 2024-11-28: [Repost(@america-4-all.bsky.social):  ](https://bsky.app/profile/america-4-all.bsky.social/post/3lbzhbawhg222)  
-2024-11-29: [Any good fishing spots near Centennial Colorado? ](https://bsky.app/profile/apollorion.com/post/3lc3ro4rd322v)  
 
 
 <p align="center">
