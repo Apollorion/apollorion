@@ -42,11 +42,11 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
+2024-12-06: [do you target your belly button when you take a shower? like do you use soap and water inside your belly button and wipe it clean every time? ](https://bsky.app/profile/apollorion.com/post/3lcnnm5enr22i)  
 2024-12-04: [Back in the great state of OH. I will miss the mountains though. ](https://bsky.app/profile/apollorion.com/post/3lchkpds7bs2g)  
 2024-12-03: [If I was an HVAC tech, I would prefer the no heat calls over the no AC calls. ](https://bsky.app/profile/apollorion.com/post/3lcgcarqwn22b)  
 2024-12-03: [Trump is going to estrange Canada at this point and hes not even president yet. ](https://bsky.app/profile/apollorion.com/post/3lcfuhmk2cs2b)  
 2024-12-02: [Repost(@hankgreen.bsky.social): httpspspspspspsp:// ](https://bsky.app/profile/hankgreen.bsky.social/post/3lce6zpibo22p)  
-2024-12-02: [Googan Squad doesn't respect sms opt out and its incredibly annoying. Anything I can do to get the texts to stop? ](https://bsky.app/profile/apollorion.com/post/3lcddhziftc2o)  
 
 
 <p align="center">
