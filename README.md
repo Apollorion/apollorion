@@ -42,11 +42,11 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
+2024-12-09: [I got my boys a PS5 for Christmas, any game recommendations for 8 and under? ](https://bsky.app/profile/apollorion.com/post/3lctgzqwmxc2z)  
 2024-12-08: [Repost(@retrocomps.bsky.social): Microsoft BASIC for the Motorola 6809-based Dragon 32 was recently discovered...  in an attic, printed out on 340 pages of fan-fold paper, now carefully scanned and OCR'd for posterity. ](https://bsky.app/profile/retrocomps.bsky.social/post/3lcsz3xunw22t)  
 2024-12-08: [Repost(@keneakers.bsky.social): Thoughts? ](https://bsky.app/profile/keneakers.bsky.social/post/3lcshzmxwsc2n)  
 2024-12-06: [do you target your belly button when you take a shower? like do you use soap and water inside your belly button and wipe it clean every time? ](https://bsky.app/profile/apollorion.com/post/3lcnnm5enr22i)  
 2024-12-04: [Back in the great state of OH. I will miss the mountains though. ](https://bsky.app/profile/apollorion.com/post/3lchkpds7bs2g)  
-2024-12-03: [If I was an HVAC tech, I would prefer the no heat calls over the no AC calls. ](https://bsky.app/profile/apollorion.com/post/3lcgcarqwn22b)  
 
 
 <p align="center">
