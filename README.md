@@ -42,11 +42,11 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
+2024-12-09: [I know Bing Bong had to get out of the rocket because the weight of both him and Joy was too much to fly out but couldnt Joy have simply pushed the rocket back into the memory dump so Bing Bong could get himself out too? ](https://bsky.app/profile/apollorion.com/post/3lctl5rt33k2r)  
+2024-12-09: [Youre the second person who recommended astro bot so Im def getting that ](https://bsky.app/profile/apollorion.com/post/3lcthynyzhc2z)  
+2024-12-09: [I did not realize that unicode proposals were handled in a personal github account. That seems... problematic. ](https://bsky.app/profile/apollorion.com/post/3lcthkjgpuc2z)  
+2024-12-08: [Repost(@saranrapjs.bsky.social): stussy s in unicode proposal github.com/Crissov/unic... ](https://bsky.app/profile/saranrapjs.bsky.social/post/3lcsfzog3yk2t)  
 2024-12-09: [I got my boys a PS5 for Christmas, any game recommendations for 8 and under? ](https://bsky.app/profile/apollorion.com/post/3lctgzqwmxc2z)  
-2024-12-08: [Repost(@retrocomps.bsky.social): Microsoft BASIC for the Motorola 6809-based Dragon 32 was recently discovered...  in an attic, printed out on 340 pages of fan-fold paper, now carefully scanned and OCR'd for posterity. ](https://bsky.app/profile/retrocomps.bsky.social/post/3lcsz3xunw22t)  
-2024-12-08: [Repost(@keneakers.bsky.social): Thoughts? ](https://bsky.app/profile/keneakers.bsky.social/post/3lcshzmxwsc2n)  
-2024-12-06: [do you target your belly button when you take a shower? like do you use soap and water inside your belly button and wipe it clean every time? ](https://bsky.app/profile/apollorion.com/post/3lcnnm5enr22i)  
-2024-12-04: [Back in the great state of OH. I will miss the mountains though. ](https://bsky.app/profile/apollorion.com/post/3lchkpds7bs2g)  
 
 
 <p align="center">
