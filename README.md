@@ -42,11 +42,11 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
+2024-12-12: [This is what apples genmoji created for "Columbus Blue Jackets" ](https://bsky.app/profile/apollorion.com/post/3ld57zxnnvk2p)  
 2024-12-09: [I dont think I've ever seen Die Hard. ](https://bsky.app/profile/apollorion.com/post/3lcuudsysq22k)  
 2024-12-09: [what is this repository in the OPs link? Just some rando pretending? ](https://bsky.app/profile/apollorion.com/post/3lcunvjl5fk2t)  
 2024-12-09: [I know Bing Bong had to get out of the rocket because the weight of both him and Joy was too much to fly out but couldnt Joy have simply pushed the rocket back into the memory dump so Bing Bong could get himself out too? ](https://bsky.app/profile/apollorion.com/post/3lctl5rt33k2r)  
 2024-12-09: [Youre the second person who recommended astro bot so Im def getting that ](https://bsky.app/profile/apollorion.com/post/3lcthynyzhc2z)  
-2024-12-09: [I did not realize that unicode proposals were handled in a personal github account. That seems... problematic. ](https://bsky.app/profile/apollorion.com/post/3lcthkjgpuc2z)  
 
 
 <p align="center">
