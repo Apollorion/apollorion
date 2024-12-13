@@ -42,11 +42,11 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
+2024-12-13: [Any cyber security folks on here, got this notification from my Firewalla. Don't know if its concerning or not. Do I just let the firewall do it thing and let it be? ](https://bsky.app/profile/apollorion.com/post/3ld7swxn4a22z)  
+2024-12-12: [Repost(@hankgreen.bsky.social): Perseverance has reached the rim of Jezero Crater! ](https://bsky.app/profile/hankgreen.bsky.social/post/3ld524zv4o22b)  
 2024-12-12: [This is what apples genmoji created for "Columbus Blue Jackets" ](https://bsky.app/profile/apollorion.com/post/3ld57zxnnvk2p)  
 2024-12-09: [I dont think I've ever seen Die Hard. ](https://bsky.app/profile/apollorion.com/post/3lcuudsysq22k)  
 2024-12-09: [what is this repository in the OPs link? Just some rando pretending? ](https://bsky.app/profile/apollorion.com/post/3lcunvjl5fk2t)  
-2024-12-09: [I know Bing Bong had to get out of the rocket because the weight of both him and Joy was too much to fly out but couldnt Joy have simply pushed the rocket back into the memory dump so Bing Bong could get himself out too? ](https://bsky.app/profile/apollorion.com/post/3lctl5rt33k2r)  
-2024-12-09: [Youre the second person who recommended astro bot so Im def getting that ](https://bsky.app/profile/apollorion.com/post/3lcthynyzhc2z)  
 
 
 <p align="center">
