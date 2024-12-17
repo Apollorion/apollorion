@@ -42,11 +42,11 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
+2024-12-17: [My new favorite thing is fried egg with cajun seasoning on toast. ](https://bsky.app/profile/apollorion.com/post/3ldixab4et22z)  
 2024-12-13: [Any cyber security folks on here, got this notification from my Firewalla. Don't know if its concerning or not. Do I just let the firewall do it thing and let it be? ](https://bsky.app/profile/apollorion.com/post/3ld7swxn4a22z)  
 2024-12-12: [Repost(@hankgreen.bsky.social): Perseverance has reached the rim of Jezero Crater! ](https://bsky.app/profile/hankgreen.bsky.social/post/3ld524zv4o22b)  
 2024-12-12: [This is what apples genmoji created for "Columbus Blue Jackets" ](https://bsky.app/profile/apollorion.com/post/3ld57zxnnvk2p)  
 2024-12-09: [I dont think I've ever seen Die Hard. ](https://bsky.app/profile/apollorion.com/post/3lcuudsysq22k)  
-2024-12-09: [what is this repository in the OPs link? Just some rando pretending? ](https://bsky.app/profile/apollorion.com/post/3lcunvjl5fk2t)  
 
 
 <p align="center">
