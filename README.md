@@ -42,11 +42,11 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
+2024-12-25: [If I had one wish, it would be that Im guaranteed to see my kids grow up. Who knows when your last day is, but I just wanna be around for them. ](https://bsky.app/profile/apollorion.com/post/3le45wacyuk2e)  
 2024-12-20: [Repost(@npr.org): About the size of Rhode Island, the iceberg known as A23a got stuck in an ocean vortex this summer, spinning in place for months. Now, it's free, and heading back into open Antarctic waters. ](https://bsky.app/profile/npr.org/post/3ldr6tvosac2u)  
 2024-12-18: [Are worms bugs? ](https://bsky.app/profile/apollorion.com/post/3ldm4g6owic2h)  
 2024-12-18: [I need to go fishing badly 😔 it's been like a month ](https://bsky.app/profile/apollorion.com/post/3ldkiilqtjc2u)  
 2024-12-17: [My new favorite thing is fried egg with cajun seasoning on toast. ](https://bsky.app/profile/apollorion.com/post/3ldixab4et22z)  
-2024-12-13: [Any cyber security folks on here, got this notification from my Firewalla. Don't know if its concerning or not. Do I just let the firewall do it thing and let it be? ](https://bsky.app/profile/apollorion.com/post/3ld7swxn4a22z)  
 
 
 <p align="center">
