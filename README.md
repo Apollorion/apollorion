@@ -42,11 +42,11 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
+2024-12-28: [My hunting buddy ](https://bsky.app/profile/apollorion.com/post/3lefcwgrdxk2h)  
 2024-12-25: [Klaus is the best christmas movie, tops even the classics. I will die on this hill. ](https://bsky.app/profile/apollorion.com/post/3le5paqjrqs2n)  
 2024-12-25: [If I had one wish, it would be that Im guaranteed to see my kids grow up. Who knows when your last day is, but I just wanna be around for them. ](https://bsky.app/profile/apollorion.com/post/3le45wacyuk2e)  
 2024-12-20: [Repost(@npr.org): About the size of Rhode Island, the iceberg known as A23a got stuck in an ocean vortex this summer, spinning in place for months. Now, it's free, and heading back into open Antarctic waters. ](https://bsky.app/profile/npr.org/post/3ldr6tvosac2u)  
 2024-12-18: [Are worms bugs? ](https://bsky.app/profile/apollorion.com/post/3ldm4g6owic2h)  
-2024-12-18: [I need to go fishing badly 😔 it's been like a month ](https://bsky.app/profile/apollorion.com/post/3ldkiilqtjc2u)  
 
 
 <p align="center">
