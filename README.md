@@ -42,11 +42,11 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
+2024-12-30: [Is arc legitimately a dead browser or is reddit just being reddit? ](https://bsky.app/profile/apollorion.com/post/3lejrzcm27k2u)  
 2024-12-30: [Who makes consumer products that only works on 2.4GHz wifi in 2024? This is crazy, cant use this light I got for xmas because my network has the same ssid for 2.4 and 5.... ](https://bsky.app/profile/apollorion.com/post/3leik3mozbc2d)  
 2024-12-28: [Repost(@altnps.bsky.social): Finally, after long serving as an unofficial symbol, the bald eagle, with its white head and yellow beak, was officially declared the national bird of the United States on Christmas Eve. ](https://bsky.app/profile/altnps.bsky.social/post/3ledfwrjhws2b)  
 2024-12-28: [My hunting buddy ](https://bsky.app/profile/apollorion.com/post/3lefcwgrdxk2h)  
 2024-12-25: [Klaus is the best christmas movie, tops even the classics. I will die on this hill. ](https://bsky.app/profile/apollorion.com/post/3le5paqjrqs2n)  
-2024-12-25: [If I had one wish, it would be that Im guaranteed to see my kids grow up. Who knows when your last day is, but I just wanna be around for them. ](https://bsky.app/profile/apollorion.com/post/3le45wacyuk2e)  
 
 
 <p align="center">
