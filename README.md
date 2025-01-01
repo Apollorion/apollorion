@@ -42,11 +42,11 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
+2025-01-01: [If I was a teacher at a school I'd probably make every day a movie day. ](https://bsky.app/profile/apollorion.com/post/3leppl3cst22o)  
 2025-01-01: [I've lost 15lbs over the last 2 weeks. I wasn't trying but it happened and Im good with that. Kinda motivated me to see if I can lose more, this is the least I've weighed since high school. ](https://bsky.app/profile/apollorion.com/post/3leozzyxkbk2n)  
 2024-12-30: [Is arc legitimately a dead browser or is reddit just being reddit? ](https://bsky.app/profile/apollorion.com/post/3lejrzcm27k2u)  
 2024-12-30: [Who makes consumer products that only works on 2.4GHz wifi in 2024? This is crazy, cant use this light I got for xmas because my network has the same ssid for 2.4 and 5.... ](https://bsky.app/profile/apollorion.com/post/3leik3mozbc2d)  
 2024-12-28: [Repost(@altnps.bsky.social): Finally, after long serving as an unofficial symbol, the bald eagle, with its white head and yellow beak, was officially declared the national bird of the United States on Christmas Eve. ](https://bsky.app/profile/altnps.bsky.social/post/3ledfwrjhws2b)  
-2024-12-28: [My hunting buddy ](https://bsky.app/profile/apollorion.com/post/3lefcwgrdxk2h)  
 
 
 <p align="center">
