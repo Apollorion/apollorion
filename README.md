@@ -42,11 +42,11 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
+2025-01-13: [Facebook/Meta just blocked links to pixelfed, an instagram competitor. So like, you should go sign up for pixelfed. Its sorta like bluesky, but instead of "twitter like" its "instagram like". ](https://bsky.app/profile/apollorion.com/post/3lfnulwydlc2i)  
 2025-01-09: [What would a phone call sound like between someone who is actively traveling to Millers planet in Interstellar and someone who stayed behind? Would their voice on one end just get slower and slower? @hankgreen.bsky.social @neildegrassetyson.com #space #timedilation #interstellar ](https://bsky.app/profile/apollorion.com/post/3lfbl2qtiwc2t)  
 2025-01-06: [It's a nice round number that the universe just settled on ](https://bsky.app/profile/apollorion.com/post/3lf27e6uojs2m)  
 2025-01-05: [saniderm is gods gift to tattoos ](https://bsky.app/profile/apollorion.com/post/3lezifermws2v)  
 2025-01-02: [I had a week and a half vacation and my kids have been sick nearly the whole duration. Hit really hard tonight, my youngest has a 103.5 fever. Poor fella is miserable😔. We've, somehow, gone months without a real bad sickness hitting our house, its like it all came at once and caught us up. ](https://bsky.app/profile/apollorion.com/post/3leqs3magwc2a)  
-2025-01-01: [If I was a teacher at a school I'd probably make every day a movie day. ](https://bsky.app/profile/apollorion.com/post/3leppl3cst22o)  
 
 
 <p align="center">
