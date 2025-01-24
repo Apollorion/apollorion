@@ -42,11 +42,11 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
+2025-01-24: [Macaroni and Cajun seasoning is the best way to eat macaroni. ](https://bsky.app/profile/apollorion.com/post/3lgh5fjs7qk2p)  
 2025-01-20: [the color difference between our two windows is interesting ](https://bsky.app/profile/apollorion.com/post/3lg7dzybdgk2o)  
 2025-01-18: [I have so much to do this weekend but it's 11 am and i'm still in bed. Great start. ](https://bsky.app/profile/apollorion.com/post/3lfzoyokuh226)  
 2025-01-14: [dreamweaver was the bees knees in hs though ](https://bsky.app/profile/apollorion.com/post/3lfqdlety722v)  
 2025-01-13: [Facebook/Meta just blocked links to pixelfed, an instagram competitor. So like, you should go sign up for pixelfed. Its sorta like bluesky, but instead of "twitter like" its "instagram like". ](https://bsky.app/profile/apollorion.com/post/3lfnulwydlc2i)  
-2025-01-09: [What would a phone call sound like between someone who is actively traveling to Millers planet in Interstellar and someone who stayed behind? Would their voice on one end just get slower and slower? @hankgreen.bsky.social @neildegrassetyson.com #space #timedilation #interstellar ](https://bsky.app/profile/apollorion.com/post/3lfbl2qtiwc2t)  
 
 
 <p align="center">
