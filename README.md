@@ -42,11 +42,11 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
+2025-02-04: [If not an oligarch, why ran by oligarch billionaires shaped? ](https://bsky.app/profile/apollorion.com/post/3lhcs7vfyl22t)  
 2025-01-31: [Repost(@internethippo.bsky.social): Mr President sir I have it on good authority that landlords are doing DEI. They are woke sir ](https://bsky.app/profile/internethippo.bsky.social/post/3lh2atkzwq224)  
 2025-01-31: [Cannon Ball! ](https://bsky.app/profile/apollorion.com/post/3lh2jpvt5vs2e)  
 2025-01-30: [Repost(@puddleofbrain.bsky.social): A Type I civilization runs its entire planet on Dunkin’ A Type II civilization runs its entire star system on Dunkin’ A Type III civilization runs its entire galaxy on Dunkin’ ](https://bsky.app/profile/puddleofbrain.bsky.social/post/3lgymeic7gk2c)  
 2025-01-24: [Macaroni and Cajun seasoning is the best way to eat macaroni. ](https://bsky.app/profile/apollorion.com/post/3lgh5fjs7qk2p)  
-2025-01-20: [the color difference between our two windows is interesting ](https://bsky.app/profile/apollorion.com/post/3lg7dzybdgk2o)  
 
 
 <p align="center">
