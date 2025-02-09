@@ -42,10 +42,10 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
+2025-02-09: [My dog sits like this all the time and its hilarious to me. ](https://bsky.app/profile/apollorion.com/post/3lhpevyponk2n)  
 2025-02-05: [I had a dream last night that I was casually hanging out with Donald Trump and I asked him if he was actually trying to implement project 2025 and he just smiled a creepy smile at me 😂 ](https://bsky.app/profile/apollorion.com/post/3lhgm35q6rc2n)  
 2025-02-04: [If not an oligarch, why ran by oligarch billionaires shaped? ](https://bsky.app/profile/apollorion.com/post/3lhcs7vfyl22t)  
 2025-01-31: [Cannon Ball! ](https://bsky.app/profile/apollorion.com/post/3lh2jpvt5vs2e)  
-2025-01-30: [Repost(@puddleofbrain.bsky.social): A Type I civilization runs its entire planet on Dunkin’ A Type II civilization runs its entire star system on Dunkin’ A Type III civilization runs its entire galaxy on Dunkin’ ](https://bsky.app/profile/puddleofbrain.bsky.social/post/3lgymeic7gk2c)  
 
 
 <p align="center">
