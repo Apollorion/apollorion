@@ -42,10 +42,11 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
+2025-02-10: [Repost(@internethippo.bsky.social): Mr Kendrick Lamar I heard Elon Musk was bad mouthing you ](https://bsky.app/profile/internethippo.bsky.social/post/3lhrz7pw6cs2h)  
+2025-02-10: [Sorry for your loss my friend 😔 ](https://bsky.app/profile/apollorion.com/post/3lhu5klfqhc23)  
 2025-02-09: [Repost(@internethippo.bsky.social): The year is 2028. A liberal elder millennial has taken control of the government. Everyone rolls their eyes at the new "department of good government oversight" (doggo). Until the purges begin ](https://bsky.app/profile/internethippo.bsky.social/post/3lhpo2roe4s2s)  
 2025-02-09: [My dog sits like this all the time and its hilarious to me. ](https://bsky.app/profile/apollorion.com/post/3lhpevyponk2n)  
 2025-02-05: [I had a dream last night that I was casually hanging out with Donald Trump and I asked him if he was actually trying to implement project 2025 and he just smiled a creepy smile at me 😂 ](https://bsky.app/profile/apollorion.com/post/3lhgm35q6rc2n)  
-2025-02-04: [If not an oligarch, why ran by oligarch billionaires shaped? ](https://bsky.app/profile/apollorion.com/post/3lhcs7vfyl22t)  
 
 
 <p align="center">
