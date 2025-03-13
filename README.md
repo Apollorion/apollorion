@@ -28,6 +28,7 @@ resource "github_introduction" "joey" {
 
     spacelift_modules = [
         "https://github.com/Apollorion/MRPICKLE",
+        "https://github.com/spacelift-solutions/tofusible",
         "https://github.com/spacelift-solutions/plugin-sops",
         "https://github.com/spacelift-solutions/plugin-context-trigger",
         "https://github.com/spacelift-solutions/plugin-signed-runs",
