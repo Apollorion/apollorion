@@ -43,7 +43,6 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
-2025-03-19: [Repost(@internethippo.bsky.social): Aside from everything else, no one in this cabal of halfwits has read a single history book. Abrogating rule of law ends badly for everyone. The reason you play by the rules even though they constrain your power is that they give you legitimacy and prevent Wikipedia sections like "The Terror" ](https://bsky.app/profile/internethippo.bsky.social/post/3lkqg7jcxa22d)  
 2025-03-20: [Would you cut off a finger of your choice to never pay a tax again? ](https://bsky.app/profile/apollorion.com/post/3lkrmcmb2e22u)  
 2025-03-17: [Can I if theres not when sometimes its okay? ](https://bsky.app/profile/apollorion.com/post/3lkm752qwak24)  
 2025-03-14: [ ](https://bsky.app/profile/apollorion.com/post/3lkcftoados2b)  
