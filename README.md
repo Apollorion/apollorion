@@ -43,10 +43,10 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
+2025-04-01: [Q: How many K8s engineers does it take to change a light bulb? A: None - you should declare how many light bulbs there should be and let the room update itself to match. ](https://bsky.app/profile/apollorion.com/post/3llrgulpiac2b)  
 2025-03-30: [Jared Keeso is my man crush ](https://bsky.app/profile/apollorion.com/post/3llljqfxb6k2o)  
 2025-03-20: [Would you cut off a finger of your choice to never pay a tax again? ](https://bsky.app/profile/apollorion.com/post/3lkrmcmb2e22u)  
 2025-03-17: [Can I if theres not when sometimes its okay? ](https://bsky.app/profile/apollorion.com/post/3lkm752qwak24)  
-2025-03-14: [ ](https://bsky.app/profile/apollorion.com/post/3lkcftoados2b)  
 
 
 <p align="center">
