@@ -26,7 +26,8 @@ resource "github_introduction" "joey" {
         "https://github.com/Apollorion/MAAS2",
     ]
 
-    spacelift_modules = [
+    spacelift = [
+        "https://packetpushers.net/podcasts/day-two-devops/0423-d2do270-spacelift-is-your-infrastructure-glue-sponsored/",
         "https://github.com/Apollorion/MRPICKLE",
         "https://github.com/spacelift-solutions/tofusible",
         "https://github.com/spacelift-solutions/plugin-sops",
