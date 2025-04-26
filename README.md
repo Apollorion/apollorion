@@ -44,11 +44,11 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
+2025-04-26: [People in pet subreddits ask the silliest questions "why is my cat making this noise while I pet her?" like what? you mean the purring? ](https://bsky.app/profile/apollorion.com/post/3lnoksvr7bk23)  
 2025-04-11: [did dodo bird taste good? ](https://bsky.app/profile/apollorion.com/post/3lmiwdl7ddk2b)  
 2025-04-10: [A girl telling me she doesn't know who the president is in high school over 10 years ago lives rent free in my head ](https://bsky.app/profile/apollorion.com/post/3lmipjxtvsc22)  
 2025-04-07: [youtu.be/pIz2K3ArrWk?...  I miss OG Owl City ](https://bsky.app/profile/apollorion.com/post/3lmb4k4ftx22u)  
 2025-04-07: [What is the conversion rate from horsepower to elephantpower? ](https://bsky.app/profile/apollorion.com/post/3lmaykqmsf226)  
-2025-04-05: [Fishing tourney was today, got less than last place 😂. Im not a bad fisherman, the fish are just bad at biting my hook. ](https://bsky.app/profile/apollorion.com/post/3lm3xsy5zdk2k)  
 
 
 <p align="center">
