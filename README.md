@@ -44,11 +44,11 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
+2025-05-29: [I like chewing my OJ with pulp ](https://bsky.app/profile/apollorion.com/post/3lqdqi3p3xk2n)  
 2025-05-12: [Do animals not have taste buds? How does a shark eat a rotting whale and think "this is gourmet as fuck?" ](https://bsky.app/profile/apollorion.com/post/3lowpnxb5rc2t)  
 2025-04-26: [People in pet subreddits ask the silliest questions "why is my cat making this noise while I pet her?" like what? you mean the purring? ](https://bsky.app/profile/apollorion.com/post/3lnoksvr7bk23)  
 2025-04-11: [did dodo bird taste good? ](https://bsky.app/profile/apollorion.com/post/3lmiwdl7ddk2b)  
 2025-04-10: [A girl telling me she doesn't know who the president is in high school over 10 years ago lives rent free in my head ](https://bsky.app/profile/apollorion.com/post/3lmipjxtvsc22)  
-2025-04-07: [youtu.be/pIz2K3ArrWk?...  I miss OG Owl City ](https://bsky.app/profile/apollorion.com/post/3lmb4k4ftx22u)  
 
 
 <p align="center">
