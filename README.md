@@ -44,11 +44,11 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
+2025-06-17: [If you were given hypothetical perfect general anesthesia and your limp body was placed into a machine that moved you as if you were running full sprint, would your heart rate increase? ](https://bsky.app/profile/apollorion.com/post/3lrr6u45za22x)  
 2025-06-09: [Is Walmart on here? 😂 ](https://bsky.app/profile/apollorion.com/post/3lr77hlaf6k2l)  
 2025-05-29: [I like chewing my OJ with pulp ](https://bsky.app/profile/apollorion.com/post/3lqdqi3p3xk2n)  
 2025-05-12: [Do animals not have taste buds? How does a shark eat a rotting whale and think "this is gourmet as fuck?" ](https://bsky.app/profile/apollorion.com/post/3lowpnxb5rc2t)  
 2025-04-26: [People in pet subreddits ask the silliest questions "why is my cat making this noise while I pet her?" like what? you mean the purring? ](https://bsky.app/profile/apollorion.com/post/3lnoksvr7bk23)  
-2025-04-11: [did dodo bird taste good? ](https://bsky.app/profile/apollorion.com/post/3lmiwdl7ddk2b)  
 
 
 <p align="center">
