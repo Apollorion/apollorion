@@ -44,11 +44,11 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
+2025-06-20: [Im at the hospital waiting room because my wife is getting her tonsils removed and this guy next to me looked at his wife and said "im so sleepy, my hands are just feeling so thick, you know?" what? your hands are thick? ](https://bsky.app/profile/apollorion.com/post/3ls2g4iczwc2x)  
 2025-06-20: [Im starting a youtube channel "The Outdoor Programmer" where I do outdoor things like fishing/shooting while talking about programming related topics.  This first video is just me fishing I gotta get the hang of the cameras and mics and stuff so this was really just a test run.  youtu.be/sFalcWeK6ss ](https://bsky.app/profile/apollorion.com/post/3lrzb6ukzis2a)  
 2025-06-17: [If you were given hypothetical perfect general anesthesia and your limp body was placed into a machine that moved you as if you were running full sprint, would your heart rate increase? ](https://bsky.app/profile/apollorion.com/post/3lrr6u45za22x)  
 2025-06-09: [Is Walmart on here? 😂 ](https://bsky.app/profile/apollorion.com/post/3lr77hlaf6k2l)  
 2025-05-29: [I like chewing my OJ with pulp ](https://bsky.app/profile/apollorion.com/post/3lqdqi3p3xk2n)  
-2025-05-12: [Do animals not have taste buds? How does a shark eat a rotting whale and think "this is gourmet as fuck?" ](https://bsky.app/profile/apollorion.com/post/3lowpnxb5rc2t)  
 
 
 <p align="center">
