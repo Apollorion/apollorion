@@ -44,7 +44,7 @@ resource "github_introduction" "joey" {
 ```
 
 ### Latest BlueSky Posts
-2025-08-18: [if your ever traveling abroad and theres a string behind a toilet, dont pull it. apparently it sets off an alarm ](https://bsky.app/profile/apollorion.com/post/3lwnbki7rfs2p)  
+2025-08-18: [if youre ever traveling abroad and theres a string behind a toilet, dont pull it. apparently it sets off an alarm ](https://bsky.app/profile/apollorion.com/post/3lwncclhp7s2e)  
 2025-08-17: [I feel like the german language was created by someone who just loved the letter Z ](https://bsky.app/profile/apollorion.com/post/3lwld7bq5p22w)  
 2025-06-20: [Im at the hospital waiting room because my wife is getting her tonsils removed and this guy next to me looked at his wife and said "im so sleepy, my hands are just feeling so thick, you know?" what? your hands are thick? ](https://bsky.app/profile/apollorion.com/post/3ls2g4iczwc2x)  
 2025-06-20: [Im starting a youtube channel "The Outdoor Programmer" where I do outdoor things like fishing/shooting while talking about programming related topics.  This first video is just me fishing I gotta get the hang of the cameras and mics and stuff so this was really just a test run.  youtu.be/sFalcWeK6ss ](https://bsky.app/profile/apollorion.com/post/3lrzb6ukzis2a)  
