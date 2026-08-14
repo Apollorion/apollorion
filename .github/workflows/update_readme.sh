@@ -1,15 +1,31 @@
 #!/usr/bin/env bash
 
-LINKS=$(curl -sS https://raw.githubusercontent.com/TheOutdoorProgrammer/profile/refs/heads/main/_data/links.yml)
-SOCIAL=$(curl -sS https://raw.githubusercontent.com/TheOutdoorProgrammer/profile/refs/heads/main/_data/social.yml)
+# links.yml was split into social.yml and projects.yml. Nothing noticed, because
+# a missing file and an empty list read the same to a loop, so the sections it
+# fed silently disappeared instead of failing.
+PROJECTS=$(curl -sS --fail https://raw.githubusercontent.com/TheOutdoorProgrammer/profile/refs/heads/main/_data/projects.yml)
+SOCIAL=$(curl -sS --fail https://raw.githubusercontent.com/TheOutdoorProgrammer/profile/refs/heads/main/_data/social.yml)
 
 shield_logo_for(){
   case "$1" in
+    "GitHub")   echo "github"   ;;
     "YouTube")  echo "youtube"  ;;
     "BlueSky")  echo "bluesky"  ;;
     "LinkedIn") echo "linkedin" ;;
     "Email")    echo "gmail"    ;;
     *)          echo ""         ;;
+  esac
+}
+
+# social.yml keys are lowercase; the badge helpers below key on display names.
+social_title_for(){
+  case "$1" in
+    "github")   echo "GitHub"   ;;
+    "youtube")  echo "YouTube"  ;;
+    "bluesky")  echo "BlueSky"  ;;
+    "linkedin") echo "LinkedIn" ;;
+    "email")    echo "Email"    ;;
+    *)          echo "$1"       ;;
   esac
 }
 
@@ -42,44 +58,16 @@ EOF
 
   echo '<p align="center">' >> README.md
 
-  length_of_categories=$(echo "$LINKS" | yq '.buttons | length')
-  for i in $(seq 0 $((length_of_categories - 1))); do
-    category=$(echo "$LINKS" | yq -r ".buttons[$i].category")
-    if [ "$category" != "Where You Can Find Me" ]; then
-      continue
-    fi
-
-    length_of_items=$(echo "$LINKS" | yq ".buttons[$i].items | length")
-    for j in $(seq 0 $((length_of_items - 1))); do
-      title=$(echo "$LINKS" | yq -r ".buttons[$i].items[$j].title")
-      url=$(echo "$LINKS" | yq -r ".buttons[$i].items[$j].url")
-
-      if [ "$title" = "GitHub" ]; then
-        continue
-      fi
-
-      logo=$(shield_logo_for "$title")
-      color=$(shield_color_for "$title")
-      label=$(echo "$title" | sed 's/ /_/g')
-
-      if [ -z "$logo" ]; then
-        icon=$(echo "$LINKS" | yq -r ".buttons[$i].items[$j].icon")
-        logo=$(iconify_to_base64_logo "$icon")
-      fi
-
-      echo "  <a href=\"${url}\"><img src=\"https://img.shields.io/badge/${label}-${color}?style=for-the-badge&logo=${logo}&logoColor=282a36\" /></a>" >> README.md
-    done
-    break
-  done
-
-  length_of_social=$(echo "$SOCIAL" | yq '. | length')
-  for s in $(seq 0 $((length_of_social - 1))); do
-    title=$(echo "$SOCIAL" | yq -r ".[$s].name")
-    url=$(echo "$SOCIAL" | yq -r ".[$s].url")
-    icon=$(echo "$SOCIAL" | yq -r ".[$s].icon")
+  # social.yml is a map of key to url. It used to be a list of objects, and the
+  # loop that read it still ran once per key, so every badge came out captioned
+  # null with a "Not found" icon rather than the section going missing.
+  for key in $(echo "$SOCIAL" | yq -r 'keys | .[]'); do
+    url=$(echo "$SOCIAL" | yq -r ".[\"${key}\"]")
+    title=$(social_title_for "$key")
+    logo=$(shield_logo_for "$title")
     color=$(shield_color_for "$title")
     label=$(echo "$title" | sed 's/ /_/g')
-    logo=$(iconify_to_base64_logo "$icon")
+
     echo "  <a href=\"${url}\"><img src=\"https://img.shields.io/badge/${label}-${color}?style=for-the-badge&logo=${logo}&logoColor=282a36\" /></a>" >> README.md
   done
 
@@ -203,83 +191,43 @@ append_site_post_rows(){
   done
 }
 
+# Projects came from links.yml's category list, which no longer exists. It is
+# one flat list now, Spacelift items included, so there is one section.
 gen_collapsible_sections(){
-  length_of_categories=$(echo "$LINKS" | yq '.buttons | length')
+  echo "### 🔧 Projects" >> README.md
+  echo "" >> README.md
+  echo "| | Name | Description |" >> README.md
+  echo "|:-:|------|-------------|" >> README.md
 
-  for i in $(seq 0 $((length_of_categories - 1))); do
-    category=$(echo "$LINKS" | yq -r ".buttons[$i].category")
+  length_of_projects=$(echo "$PROJECTS" | yq '.projects | length')
+  for i in $(seq 0 $((length_of_projects - 1))); do
+    title=$(echo "$PROJECTS" | yq -r ".projects[$i].title")
+    url=$(echo "$PROJECTS" | yq -r ".projects[$i].url")
+    icon=$(iconify_img "$(echo "$PROJECTS" | yq -r ".projects[$i].icon")")
 
-    # Skip social links — handled by badges
-    if [ "$category" = "Where You Can Find Me" ] || [ "$category" = "Spacelift" ]; then
-      continue
+    desc=$(echo "$PROJECTS" | yq -r ".projects[$i].description" 2>/dev/null)
+    if [ "$desc" = "null" ]; then
+      desc=""
     fi
+    desc=$(echo "$desc" | sed 's/|/\\|/g')
 
-    # Emoji per category
-    case "$category" in
-      "Projects") emoji="🔧" ;;
-      "Spacelift") emoji="🚀" ;;
-      "Blog Posts") emoji="📝" ;;
-      *) emoji="📌" ;;
-    esac
-
-    echo "### ${emoji} ${category}" >> README.md
-    echo "" >> README.md
-
-
-    first_desc=$(echo "$LINKS" | yq -r ".buttons[$i].items[0].description" 2>/dev/null)
-    use_table=false
-    if [ -n "$first_desc" ] && [ "$first_desc" != "null" ]; then
-      use_table=true
-      echo "| | Name | Description |" >> README.md
-      echo "|:-:|------|-------------|" >> README.md
-
-      if [ "$category" = "Blog Posts" ]; then
-        append_site_post_rows
-      fi
-    fi
-
-    length_of_items=$(echo "$LINKS" | yq ".buttons[$i].items | length")
-
-    for j in $(seq 0 $((length_of_items - 1))); do
-      title=$(echo "$LINKS" | yq -r ".buttons[$i].items[$j].title")
-      url=$(echo "$LINKS" | yq -r ".buttons[$i].items[$j].url")
-      icon=$(iconify_img "$(echo "$LINKS" | yq -r ".buttons[$i].items[$j].icon")")
-
-      if [ "$use_table" = true ]; then
-        desc=$(echo "$LINKS" | yq -r ".buttons[$i].items[$j].description" 2>/dev/null)
-        if [ "$desc" = "null" ] || [ -z "$desc" ]; then
-          desc=""
-        fi
-        desc=$(echo "$desc" | sed 's/|/\\|/g')
-        echo "| ${icon}| [${title}](${url}) | ${desc} |" >> README.md
-      else
-        echo "- ${icon}[${title}](${url})" >> README.md
-      fi
-    done
-
-    echo "" >> README.md
+    echo "| ${icon}| [${title}](${url}) | ${desc} |" >> README.md
   done
 
-  for i in $(seq 0 $((length_of_categories - 1))); do
-    category=$(echo "$LINKS" | yq -r ".buttons[$i].category")
-    if [ "$category" != "Spacelift" ]; then
-      continue
-    fi
+  echo "" >> README.md
+}
 
-    echo "### 🚀 ${category}" >> README.md
-    echo "" >> README.md
+# Blog posts are read from the site's own posts rather than from a hand kept
+# list, so publishing one is all it takes to have it appear here.
+gen_blog_posts(){
+  echo "### 📝 Blog Posts" >> README.md
+  echo "" >> README.md
+  echo "| | Name | Description |" >> README.md
+  echo "|:-:|------|-------------|" >> README.md
 
-    length_of_items=$(echo "$LINKS" | yq ".buttons[$i].items | length")
-    for j in $(seq 0 $((length_of_items - 1))); do
-      title=$(echo "$LINKS" | yq -r ".buttons[$i].items[$j].title")
-      url=$(echo "$LINKS" | yq -r ".buttons[$i].items[$j].url")
-      icon=$(iconify_img "$(echo "$LINKS" | yq -r ".buttons[$i].items[$j].icon")")
-      echo "- ${icon}[${title}](${url})" >> README.md
-    done
+  append_site_post_rows
 
-    echo "" >> README.md
-    break
-  done
+  echo "" >> README.md
 }
 
 # Generate the README
@@ -288,3 +236,4 @@ gen_tech_badges
 gen_hcl_intro
 gen_blusky_posts
 gen_collapsible_sections
+gen_blog_posts
