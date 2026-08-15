@@ -34,16 +34,15 @@ resource "github_introduction" "joey" {
 
 <table><tr>
 <td width="33%" valign="top" align="center">
+Is it called a Cesar Salad because you stab the Italian parts with a fork multiple times?<br/><br/>
+<sub><a href="https://bsky.app/profile/theoutdoorprogrammer.com/post/3mt4sx7rk3222">2026-08-15</a></sub>
+</td>
+<td width="33%" valign="top" align="center">
 <sub><a href="https://bsky.app/profile/theoutdoorprogrammer.com/post/3mt4sdvpcqs2w">2026-08-15</a></sub>
 </td>
 <td width="33%" valign="top" align="center">
 Trump doesnt listen to the law, why should anthropic? #freefable<br/><br/>
 <sub><a href="https://bsky.app/profile/theoutdoorprogrammer.com/post/3moh5gsnugk2z">2026-06-17</a></sub>
-</td>
-<td width="33%" valign="top" align="center">
-<a href="https://bsky.app/profile/annenotation.bsky.social/post/3mnxhy5i5rs2r"><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pc7hnprxwmeqfmbuhwpols5q/bafkreifps5iuev6vmo4ieqgywqt76ml7hixsr3667xwktwjzgacu77yn3i" width="150" alt="" /></a><br/>
-🔄 @annenotation.bsky.social: This is probably the most traditional possible behavior for the family of a pope.<br/><br/>
-<sub><a href="https://bsky.app/profile/annenotation.bsky.social/post/3mnxhy5i5rs2r">2026-06-10</a></sub>
 </td>
 </tr></table>
 
