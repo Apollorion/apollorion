@@ -30,6 +30,12 @@ resource "github_introduction" "joey" {
 }
 ```
 
+### What I stand for
+
+**Don't be greedy. Don't be evil.** I apply the [Nerds Who Fish philosophies](https://github.com/NerdsWhoFish/philosophies) across my professional and personal work: care for people and the planet, learn without blame, give direct constructive feedback, take responsibility for AI output, and practice engineering rigor.
+
+[Read the philosophies on my website](https://www.theoutdoorprogrammer.com/philosophies/) or [follow their history on GitHub](https://github.com/NerdsWhoFish/philosophies/commits/main/).
+
 ### 🦋 Latest from BlueSky
 
 <table><tr>
@@ -78,4 +84,3 @@ Trump doesnt listen to the law, why should anthropic? #freefable<br/><br/>
 | | [How I Pick Models for My Specialized AI Agents](https://www.theoutdoorprogrammer.com/2026/04/07/llm-benchmark-dashboard) | I built specialized agents for specific tasks - then figured out which models actually work for each one. Here's the framework I use. |
 | | [Redesigning My GitHub Profile README with Bash, YAML, and Way Too Many APIs](https://www.theoutdoorprogrammer.com/2026/03/08/redesigning-my-github-profile-readme) | I rebuilt my GitHub profile README from scratch with auto-generated badges, live BlueSky posts, and a Dracula color scheme, all from a single shell script. |
 | | [First Time Ice Fishing on Buckeye Lake with My Boys](https://www.theoutdoorprogrammer.com/2026/02/15/first-time-ice-fishing-buckeye-lake) | I took my two boys ice fishing for the first time on Buckeye Lake in Ohio. We didn't catch a thing — but we learned a lot and we're already planning the next trip. |
-
