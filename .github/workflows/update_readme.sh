@@ -234,6 +234,8 @@ gen_blog_posts(){
 gen_top
 gen_tech_badges
 gen_hcl_intro
+cat .github/philosophies.md >> README.md
+echo '' >> README.md
 gen_blusky_posts
 gen_collapsible_sections
 gen_blog_posts
