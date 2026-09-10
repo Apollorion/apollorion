@@ -30,6 +30,8 @@ resource "github_introduction" "joey" {
 }
 ```
 
+<!-- markdownlint-disable MD041 -->
+
 ### What I stand for
 
 **Don't be greedy. Don't be evil.** I apply the [Nerds Who Fish philosophies](https://github.com/NerdsWhoFish/philosophies) across my professional and personal work: care for people and the planet, learn without blame, give direct constructive feedback, take responsibility for AI output, and practice engineering rigor.
@@ -40,15 +42,15 @@ resource "github_introduction" "joey" {
 
 <table><tr>
 <td width="33%" valign="top" align="center">
+GUYS! Im in a podcast! Its awesome! Watch our first episode if you are interested in nerd stuff! This first episode is about #openpolicyagent #opa #rego and we talk about how not-hard it is! Spotify: open.spotify.com/show/0dNIjle... Youtube: www.youtube.com/playlist?lis...<br/><br/>
+<sub><a href="https://bsky.app/profile/theoutdoorprogrammer.com/post/3mv6kmjx43s2i">2026-09-10</a></sub>
+</td>
+<td width="33%" valign="top" align="center">
 Is it called a Cesar Salad because you stab the Italian parts with a fork multiple times?<br/><br/>
 <sub><a href="https://bsky.app/profile/theoutdoorprogrammer.com/post/3mt4sx7rk3222">2026-08-15</a></sub>
 </td>
 <td width="33%" valign="top" align="center">
 <sub><a href="https://bsky.app/profile/theoutdoorprogrammer.com/post/3mt4sdvpcqs2w">2026-08-15</a></sub>
-</td>
-<td width="33%" valign="top" align="center">
-Trump doesnt listen to the law, why should anthropic? #freefable<br/><br/>
-<sub><a href="https://bsky.app/profile/theoutdoorprogrammer.com/post/3moh5gsnugk2z">2026-06-17</a></sub>
 </td>
 </tr></table>
 
@@ -84,3 +86,4 @@ Trump doesnt listen to the law, why should anthropic? #freefable<br/><br/>
 | | [How I Pick Models for My Specialized AI Agents](https://www.theoutdoorprogrammer.com/2026/04/07/llm-benchmark-dashboard) | I built specialized agents for specific tasks - then figured out which models actually work for each one. Here's the framework I use. |
 | | [Redesigning My GitHub Profile README with Bash, YAML, and Way Too Many APIs](https://www.theoutdoorprogrammer.com/2026/03/08/redesigning-my-github-profile-readme) | I rebuilt my GitHub profile README from scratch with auto-generated badges, live BlueSky posts, and a Dracula color scheme, all from a single shell script. |
 | | [First Time Ice Fishing on Buckeye Lake with My Boys](https://www.theoutdoorprogrammer.com/2026/02/15/first-time-ice-fishing-buckeye-lake) | I took my two boys ice fishing for the first time on Buckeye Lake in Ohio. We didn't catch a thing — but we learned a lot and we're already planning the next trip. |
+
